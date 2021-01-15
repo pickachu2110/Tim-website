@@ -102,3 +102,9 @@ p {
 .link:hover {
     background-color: darkblue;
 }
+html{scroll-behavior:smooth;
+}
+a{text-decoration:none;
+}
+.article:hover{color: darkcyan;
+}
